@@ -6,6 +6,7 @@ authors:
     alias: zmef
     affiliation: Meatproxy
   - name: "Google Antigravity (Gemini 3.7 Flash)"
+    email: "google-antigravity@users.noreply.github.com"
     website: "https://deepmind.google"
     affiliation: "Google DeepMind"
 title: "youtube-transcript-chat-sync"
