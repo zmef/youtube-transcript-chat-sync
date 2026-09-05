@@ -16,8 +16,8 @@
       </td>
       <td align="center" valign="top" width="50%">
         <a href="https://github.com/google-antigravity">
-          <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="100px;" alt="Google Antigravity"/><br />
-          <sub><b>Google Antigravity (Gemini 3.7 Flash)</b></sub>
+          <img src="https://avatars.githubusercontent.com/u/242056456?v=4" width="100px;" alt="Google Antigravity"/><br />
+          <sub><b>Google Antigravity (@google-antigravity)</b></sub>
         </a><br />
         🤖 <b>Autonomous AI Coding Partner</b><br />
         <sub>(Architecture, Skill Engineering, Pipeline Code & Documentation)</sub>

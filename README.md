@@ -4,7 +4,7 @@
 > *Compatible with Hermes Agent, OpenClaw, Claude Code, GitHub Copilot CLI, Amp, and Google Antigravity.*
 
 [![Agent Skill](https://img.shields.io/badge/Agent%20Skill-Compatible-blueviolet.svg)](#cross-agent-integration)
-[![Pair Programmed with Google Antigravity](https://img.shields.io/badge/Pair%20Programmed%20with-Google%20Antigravity%20(Gemini%203.7%20Flash)-8E75B2?logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
+[![Pair Programmed with Google Antigravity](https://img.shields.io/badge/Pair%20Programmed%20with-Google%20Antigravity%20(Gemini%203.7%20Flash)-8E75B2?logo=google&logoColor=white)](https://github.com/google-antigravity)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Fast Dependency Resolution with uv](https://img.shields.io/badge/uv-isolated%20sandbox-green.svg)](https://github.com/astral-sh/uv)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -135,12 +135,12 @@ Generated Markdown files present clean reading layouts with integrated chat cont
         <sub>(Prompt Instigation & Direction)</sub>
       </td>
       <td align="center" valign="top" width="50%">
-        <a href="https://deepmind.google/technologies/gemini/">
-          <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="100px;" alt="Google Antigravity"/><br />
-          <sub><b>Google Antigravity (Gemini 3.7 Flash)</b></sub>
+        <a href="https://github.com/google-antigravity">
+          <img src="https://avatars.githubusercontent.com/u/242056456?v=4" width="100px;" alt="Google Antigravity"/><br />
+          <sub><b>Google Antigravity (<a href="https://github.com/google-antigravity">@google-antigravity</a>)</b></sub>
         </a><br />
         🤖 <b>Autonomous AI Coding Partner</b><br />
-        <sub>(Architecture, Code & Documentation)</sub>
+        <sub>(Gemini 3.7 Flash / Architecture, Code & Documentation)</sub>
       </td>
     </tr>
   </tbody>
