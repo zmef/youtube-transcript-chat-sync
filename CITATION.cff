@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the meatproxy and the AI coding partner."
+authors:
+  - family-names: Fosdyck
+    given-names: Zac
+    alias: zmef
+    affiliation: Meatproxy
+  - name: "Google Antigravity (Gemini 3.7 Flash)"
+    website: "https://deepmind.google"
+    affiliation: "Google DeepMind"
+title: "youtube-transcript-chat-sync"
+date-released: 2026-09-05

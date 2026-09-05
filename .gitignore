@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+output/
+transcripts/
+*.live_chat.json
+*.m4a
+*.mp3
+*.mp4
+*.srt
+*.vtt
+.DS_Store
